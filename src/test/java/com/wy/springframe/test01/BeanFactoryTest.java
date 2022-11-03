@@ -1,4 +1,4 @@
-package com.wy.springframework;
+package com.wy.springframe.test01;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
@@ -10,15 +10,15 @@ import java.util.concurrent.ConcurrentHashMap;
  * @Version: 1.0.0
  * @Description: TODO
  */
-public class BeanFactory {
+public class BeanFactoryTest {
 
-    private Map<String, BeanDefinition> beanDefinitionMap = new ConcurrentHashMap<>();
+    Map<String, BeanDefinition1> beanDefinitionMap = new ConcurrentHashMap<>();
 
     public Object getBean(String name){
         return beanDefinitionMap.get(name).getBean();
     }
 
-    public void registerBeanDefinition(String name, BeanDefinition beanDefinition){
+    public void registerBeanDefinition(String name, BeanDefinition1 beanDefinition){
         beanDefinitionMap.put(name,beanDefinition);
     }
 

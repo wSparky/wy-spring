@@ -1,4 +1,4 @@
-package com.wy.springframework.test.bean;
+package com.wy.springframe.bean;
 
 /**
  * @author wangye

@@ -1,4 +1,4 @@
-package com.wy.springframework;
+package com.wy.springframe.test01;
 
 /**
  * @author wangye
@@ -7,11 +7,11 @@ package com.wy.springframework;
  * @Version: 1.0.0
  * @Description: TODO
  */
-public class BeanDefinition {
+public class BeanDefinition1 {
 
     private Object bean;
 
-    public BeanDefinition(Object bean){
+    public BeanDefinition1(Object bean){
         this.bean = bean;
     }
     public Object getBean(){
