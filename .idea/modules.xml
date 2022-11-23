@@ -3,11 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/wy-spring.iml" filepath="$PROJECT_DIR$/.idea/wy-spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wy-spring03/wy-spring03.iml" filepath="$PROJECT_DIR$/wy-spring03/wy-spring03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wy-spring04/wy-spring04.iml" filepath="$PROJECT_DIR$/wy-spring04/wy-spring04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wy-spring05/wy-spring05.iml" filepath="$PROJECT_DIR$/wy-spring05/wy-spring05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wy_spring01/wy_spring01.iml" filepath="$PROJECT_DIR$/wy_spring01/wy_spring01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wy_spring02/wy_spring02.iml" filepath="$PROJECT_DIR$/wy_spring02/wy_spring02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wy-spring06/wy-spring06.iml" filepath="$PROJECT_DIR$/wy-spring06/wy-spring06.iml" />
     </modules>
   </component>
 </project>
