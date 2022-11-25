@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/wy-spring.iml" filepath="$PROJECT_DIR$/.idea/wy-spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wy-spring06/wy-spring06.iml" filepath="$PROJECT_DIR$/wy-spring06/wy-spring06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wy-springAware/wy-springAware.iml" filepath="$PROJECT_DIR$/wy-springAware/wy-springAware.iml" />
     </modules>
   </component>
 </project>

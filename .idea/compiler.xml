@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="wy-spring06" />
+        <module name="wy-springAware" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -14,6 +14,7 @@
       <module name="wy-spring04" target="1.8" />
       <module name="wy-spring05" target="1.8" />
       <module name="wy-spring06" target="1.8" />
+      <module name="wy-springAware" target="1.8" />
       <module name="wy_spring01" target="1.8" />
       <module name="wy_spring01 (1)" target="1.8" />
       <module name="wy_spring02" target="1.8" />
