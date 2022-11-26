@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/wy-springScope/pom.xml" />
+        <option value="$PROJECT_DIR$/wy-springEvent/pom.xml" />
       </list>
     </option>
   </component>
