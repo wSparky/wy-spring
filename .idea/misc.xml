@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/wy-springEvent/pom.xml" />
         <option value="$PROJECT_DIR$/wy-springAop/pom.xml" />
         <option value="$PROJECT_DIR$/wy-springBeanAop/pom.xml" />
+        <option value="$PROJECT_DIR$/wy-springAutoScanBean/pom.xml" />
       </list>
     </option>
   </component>
